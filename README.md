@@ -1,10 +1,10 @@
-# GSoC Warm-up: I/O Performance Characterization
+# GSoC Characterizing I/O Performance for ML Data Loaders at Scale Using Darshan Warm-up project
 
 This repository contains the results and scripts for the Google Summer of Code warmup task, focused on evaluating I/O performance bottlenecks in a PyTorch DataLoader environment and analyzing Darshan characterization logs.
 
 1. Experimental Setup
-- Platform**: GitHub Codespace
-- Dataset**: 10 synthetic binary files (~500MB each, total 4.88GB).
+- Platform: GitHub Codespace
+- Dataset: 10 synthetic binary files (~500MB each, total 4.88GB).
 - Storage: Local SSD (managed through a cloud-based environment).
 
 2. Key Scripts
