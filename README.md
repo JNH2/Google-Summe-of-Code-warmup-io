@@ -1,4 +1,5 @@
-# GSoC Characterizing I/O Performance for ML Data Loaders at Scale Using Darshan Warm-up project
+Utilized Darshan on the Perlmutter supercomputer to profile multi-node data ingestion, optimizing file access patterns to maximize throughput for large-scale data pipelines(Technical report in progress)
+
 
 This repository contains the results and scripts for the Google Summer of Code warmup task, focused on evaluating I/O performance bottlenecks in a PyTorch DataLoader environment and analyzing Darshan characterization logs.
 
